@@ -1,0 +1,26 @@
+{
+  "name": "parametrizacion-deducible",
+  "version": "1.0.0",
+  "description": "aplicación para parametrizar información de deducibles",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^28.0.1"
+  },
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enderson89/parametrizacion-deducible.git"
+  },
+  "keywords": [
+    "deducible"
+  ],
+  "author": "Enderson Villegas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enderson89/parametrizacion-deducible/issues"
+  },
+  "homepage": "https://github.com/enderson89/parametrizacion-deducible#readme"
+}
