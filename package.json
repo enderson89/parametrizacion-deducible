@@ -22,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/enderson89/parametrizacion-deducible/issues"
   },
-  "homepage": "https://github.com/enderson89/parametrizacion-deducible#readme"
+  "homepage": "https://github.com/enderson89/parametrizacion-deducible#readme",
+  "jest": {
+    "verbose": true,
+    "testEnvironment": "node",
+    "coveragePathIgnorePatterns": [
+      "/node_modules/"
+    ]
+  }
 }
